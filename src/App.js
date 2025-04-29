@@ -140,7 +140,9 @@ const DayPage = () => {
         {current.media.map((filename, i) => {
           const isVideo =
             filename.endsWith(".mp4") || filename.endsWith(".mov");
-          const src = `/assets/day${current.day}/${filename}`;
+          // const src = `/assets/day${current.day}/${filename}`;
+          const src = `${process.env.PUBLIC_URL}/assets/day${current.day}/${filename}`;
+
           return (
             <div className="media-card" key={i}>
               {isVideo ? (
