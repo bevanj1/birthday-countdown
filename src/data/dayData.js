@@ -29,6 +29,12 @@ const dayData = [
       "Your sweet 💎Elegance💎 never fails to amaze me. I keep admiring how you look everytime we go out and thank my stars I am with the prettiest girl alive. Thank you so much for putting up with me and my annoying behaviour, troubling you all the time. I love you baby. I wish you the best day ahead my sugar.",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "vid1.mp4"],
   },
+  {
+    day: 6,
+    message:
+      "I'm so happy I have the Funniest girlfriend alive, who always keeps me smiling and makes my day everytime I see her. I absolutely love how you can be vulnerable in front of me and let yourself loose. Makes me feel the most special. Thank you for always keeping me happy baby. I love you. One more day down wohooo!!!",
+    media: ["img1.jpeg", "img2.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
