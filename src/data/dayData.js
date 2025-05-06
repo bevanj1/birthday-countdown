@@ -32,8 +32,14 @@ const dayData = [
   {
     day: 6,
     message:
-      "I'm so happy I have the Funniest girlfriend alive, who always keeps me smiling and makes my day everytime I see her. I absolutely love how you can be vulnerable in front of me and let yourself loose. Makes me feel the most special. Thank you for always keeping me happy baby. I love you. One more day down wohooo!!!",
+      "I'm so happy I have the 😂Funniest😂 girlfriend alive, who always keeps me smiling and makes my day everytime I see her. I absolutely love how you can be vulnerable in front of me and let yourself loose. Makes me feel the most special. Thank you for always keeping me happy baby. I love you. One more day down wohooo!!!",
     media: ["img1.jpeg", "img2.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4"],
+  },
+  {
+    day: 7,
+    message:
+      "To my ✨Gorgeous✨ little angel, I love every bit of you inside out and I'm so amazed how you look pretty in anything you wear. You have so much positive aura with the way you look and I just cant stop smiling whenever I'm with you. Thank you for lighting up m y life baby. I love you. 7 days down wohooo!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
   },
   // {
   //     day: 2,
