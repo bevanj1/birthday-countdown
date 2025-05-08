@@ -41,6 +41,18 @@ const dayData = [
       "To my ✨Gorgeous✨ little angel, I love every bit of you inside out and I'm so amazed how you look pretty in anything you wear. You have so much positive aura with the way you look and I just cant stop smiling whenever I'm with you. Thank you for lighting up m y life baby. I love you. 7 days down wohooo!!",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
   },
+  {
+    day: 8,
+    message:
+      "To my 🍏Healthy🍏 little baby. I absolutely adore when you eat and take care of yourself. I feel so happy when you listen to me and keep your belly stuffed and stay hydrated. I want you to know I am so proud of you everyday and I know I can be a huge dumbass and get on your nerves, but I promise some day I will be the sweet husband you've always dreamed of. Sorry for troubling you so much. I love you, one more day down wohooo!!!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
+  {
+    day: 9,
+    message:
+      "To my 🗽Independent🗽 baby who loves to prove to me everyday how strong and brave she is. I absolutely love how you show me that you can handle every situation, be it work or be it our relationship. I learn so much from you and you make me a better man with everything you say and do. Thankful to have you as my wife someday. I love you babe. One more day down wohoooo!!!!",
+    media: ["img1.jpeg", "img2.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
