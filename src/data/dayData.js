@@ -53,6 +53,24 @@ const dayData = [
       "To my 🗽Independent🗽 baby who loves to prove to me everyday how strong and brave she is. I absolutely love how you show me that you can handle every situation, be it work or be it our relationship. I learn so much from you and you make me a better man with everything you say and do. Thankful to have you as my wife someday. I love you babe. One more day down wohoooo!!!!",
     media: ["img1.jpeg", "img2.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4"],
   },
+  {
+    day: 10,
+    message:
+      "My 🥳Joyful🥳 little angel. You always find a way to be cute and bring out the best side of everyone around you. You are so happy and optimistic whenever I talk to you that I never feel low or demotivated around you. You make me feel like the happiest man alive. Thank you for everything you do for me. I love you ",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "vid1.mp4"],
+  },
+  {
+    day: 11,
+    message:
+      "To my 🎀Kind🎀 little baby. I love the way you are so patient and gentle with me and always know how to treat me right. You never make me feel any less of a man and more so any less of a boyfriend. I adore you so much for this. Thank you for putting up with your stupid baby and I love you soo much. One more day down baby wohooo!!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
+  {
+    day: 12,
+    message:
+      "To my 💖Loving💖 little baby girl. You came into my life and taught me how to love. You always pour your heart out to me in everything you do. I love you for it and I wake up everyday knowing Im with the most loving girlfriend I could ever ask for. Thank you for changing my life. I love you",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
