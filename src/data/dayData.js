@@ -71,6 +71,12 @@ const dayData = [
       "To my 💖Loving💖 little baby girl. You came into my life and taught me how to love. You always pour your heart out to me in everything you do. I love you for it and I wake up everyday knowing Im with the most loving girlfriend I could ever ask for. Thank you for changing my life. I love you",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
   },
+  {
+    day: 13,
+    message:
+      "My 👩‍💼Mature👩‍💼 woman. I love how brave and mature you act in all situations. You are the one who keeps me grounded always and knows exactly how to keep me in check. I admire the way you always find a solution to everything and take care of every one at home as well as in your circle. You are the person I can be the most vulnerable with and I cannot thank you enough for that. I love you baby. One more day down wohoo!!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
