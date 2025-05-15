@@ -77,6 +77,24 @@ const dayData = [
       "My 👩‍💼Mature👩‍💼 woman. I love how brave and mature you act in all situations. You are the one who keeps me grounded always and knows exactly how to keep me in check. I admire the way you always find a solution to everything and take care of every one at home as well as in your circle. You are the person I can be the most vulnerable with and I cannot thank you enough for that. I love you baby. One more day down wohoo!!!",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
   },
+  {
+    day: 14,
+    message:
+      "To my 😈Naughty😈 little girlie. I love how you absolutely act so playful and mischievous around me. When you tickle me and bite me. Like my little devil who walks around with me everywhere. I love that side of you and I am so happy that you can be that vulnerable around me. I love you baby. Happy 5 months my sugar buns. I cannot wait to be your husband some day ",
+    media: ["vid1.mp4", "vid2.mp4", "vid3.mp4", "vid4.mp4", "vid5.mp4"],
+  },
+  {
+    day: 15,
+    message:
+      "I adore how you are completely 😍Obsessed😍 with me and I am completely obsessed with you. Its like two love birds who just cant be separated. I am the luckiest man alive to have a girlfriend like you baby, who never gets bored of me and pours out her whole heart for me. I love you soooo sooo much for that. One more day down my sugar buns, letss goooo",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
+  },
+  {
+    day: 16,
+    message:
+      "I love how you're so 😄Playful😄 around me all the time. Like whenever you make stupid jokes or record something I say wrong. I absolutely love when you come and randomly bite me or pinch me, its like I'm taking care of a little baby girl everywhere I go. I wish you always stay my little sweet baby girl for life. I love you my baby",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
