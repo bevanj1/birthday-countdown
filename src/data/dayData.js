@@ -95,6 +95,12 @@ const dayData = [
       "I love how you're so 😄Playful😄 around me all the time. Like whenever you make stupid jokes or record something I say wrong. I absolutely love when you come and randomly bite me or pinch me, its like I'm taking care of a little baby girl everywhere I go. I wish you always stay my little sweet baby girl for life. I love you my baby",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
   },
+  {
+    day: 17,
+    message:
+      "I love you my 👑Queen👑. I hate that you're not always with me so I can keep staring at your pretty face. I love you so so much and cannot wait to be your king someday. Keep looking pretty like you always do so I can show off to the whole world what a gorgeous baby I have.",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
+  },
   // {
   //     day: 2,
   //     message: "Day 2 is here with more surprises! 🎉",
