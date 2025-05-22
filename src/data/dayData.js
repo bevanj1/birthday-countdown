@@ -101,11 +101,42 @@ const dayData = [
       "I love you my 👑Queen👑. I hate that you're not always with me so I can keep staring at your pretty face. I love you so so much and cannot wait to be your king someday. Keep looking pretty like you always do so I can show off to the whole world what a gorgeous baby I have.",
     media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "img5.jpeg"],
   },
-  // {
-  //     day: 2,
-  //     message: "Day 2 is here with more surprises! 🎉",
-  //     media: ["pic2.jpg", "clip2.mp4"],
-  //   },
+  {
+    day: 18,
+    message:
+      "My 💌Romantic💌 little baby. I love how you always pull me close for a kiss and tell me how I'm the most handsome man on the planet. I love how affectionate you are with me and I cannot thank you enough for appreciating me so much. Sometimes I question myself as to how I landed the most gorgeous woman ever. I love you my baby.",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "vid1.mp4"],
+  },
+  {
+    day: 19,
+    message:
+      "My 💅Sassy💅 baby girl. I love how you are my walking talking ball of sass I can take everywhere I go, who knows how to put me in my place. I love how you think of creative ways to get on my nerves, but also even more creative ways to make me feel loved. Thank you so much baby for sticking by me. One more day down wohooo!!",
+    media: ["img1.jpeg", "img2.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4"],
+  },
+  {
+    day: 20,
+    message:
+      "To my 🏆Talented🏆 little baby girl. I am so amazed by how talented you are, in dancing, singing and all other rubbish that you do. Excellence even in stupidity and I absolutely love that about you baby. Cheers to one more day closer to the big day. I love you",
+    media: ["img1.jpeg", "vid1.mp4", "vid2.mp4", "vid3.mp4", "vid4.mp4"],
+  },
+  {
+    day: 21,
+    message:
+      "You're my ⭐Unique⭐ little angel, one of a kind and thats why I love you the mostest. I dont think I will ever be able to find a woman like you, so I'm never gonna leave you. I love that you are a damaged piece but a one of a kind damaged piece that only belongs to me. I love you the mostest my baby",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
+  {
+    day: 22,
+    message:
+      "I love how you're so 🌈Vibrant🌈 all the time and full of energy that instantly makes my whole mood better. You just change the way I look at life and make such a big difference to me. I am so happy to have you by my side. I love you my baby. We're almost there wohooo!!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "img4.jpeg", "vid1.mp4"],
+  },
+  {
+    day: 23,
+    message:
+      "You're so 🕊️Wholesome🕊️ my baby girl, I absolutely love the way you care about me and love me and be your absolute self in front of me. I love when you act like a baby and also like a mom with me, makes me get the best of both worlds. One more day down baby, 3 more to go, wohoooo!!!",
+    media: ["img1.jpeg", "img2.jpeg", "img3.jpeg", "vid1.mp4", "vid2.mp4"],
+  },
 ];
 
 export default dayData;
